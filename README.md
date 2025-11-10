@@ -490,6 +490,7 @@ If you find this useful, please give it a star on GitHub!
 
 ---
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by [Sahir Arshad]**
 
 Last Updated: November 2025
+
